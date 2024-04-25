@@ -1,6 +1,6 @@
 # Over 20 C++ Mini Programs
 
-This repository contains a collection of over 25 mini programs written in the C++ programming language. These programs cover a variety of concepts and functionalities, serving as a resource for beginners and intermediate C programmers to learn and practice their skills.
+This repository contains a collection of over 25 mini programs written in the C++ programming language. These programs cover a variety of concepts and functionalities, serving as a resource for beginners and intermediate programmers to learn and practice their skills.
 
 ## Program List
 
